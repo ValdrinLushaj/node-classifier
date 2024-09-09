@@ -1,0 +1,7 @@
+# Add other dependencies as needed
+pytest
+boto3
+moto
+fastapi
+mangum
+httpx
